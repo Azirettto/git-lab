@@ -1,0 +1,109 @@
+body{
+    background-color: #222;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    max-width: 100%;
+    background: url("../img/adda.jpg") no-repeat ;
+    width: 1440px;
+    
+    height: 540px;
+    padding-top: 20px;
+}
+.navb{
+    color: white;
+   
+   
+}
+.ada{
+    margin-left: 800px;
+    display: flex;
+    
+}
+.ada a {
+    text-decoration: none;
+    margin-right: 50px;
+    color: white;
+    
+}
+.versus{
+    margin-left: 100px;
+    
+}
+
+.under_text{
+    text-align: center;
+}
+.center__text{
+    width: 465px;
+    height: 106px;
+    font-size: 48px;
+    font-family:'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 488px;
+    margin-top: 244px;
+}
+
+.btn{
+    padding: 15px;
+    background: transparent;
+    border: 2px solid #00D6B4;
+    color:  #00D6B4;
+    margin-left: 651px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.conteiner{
+    background-color: #222;
+    width: 100%;
+}
+.center__text2{
+    color: white;
+    
+    font-size: 25px;
+    margin-left: 651px;
+}
+.img_conteiner{
+    display: flex;
+}
+.img{
+    text-align: center;
+    justify-content: center;
+    
+}
+.images3{
+    margin-bottom: 9px;
+}
+.footer1{
+    background-color: #222;
+    width: 100%;
+    padding-top: 115px;
+
+}
+.footer{
+    font-size: 18px;
+    color: #C2C2C2;
+    text-align: center;
+}
+.uuu{
+    font-size: 12px;
+    color: #999999;
+}
+
+.conteiner222{
+    background: #222;
+    text-align: center;
+    padding-top: 50px;
+    width: 100%;
+}
+.conteiner222 p{
+    color: white;
+    font-size: 25px;
+    padding-bottom: 33px;
+}
